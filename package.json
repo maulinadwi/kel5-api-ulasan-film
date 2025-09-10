@@ -1,0 +1,25 @@
+{
+  "name": "kel5-api-ulasan-film",
+  "version": "1.0.0",
+  "description": "\"# Kel5 API Ulasan Film\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maulinadwi/kel5-api-ulasan-film.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maulinadwi/kel5-api-ulasan-film/issues"
+  },
+  "homepage": "https://github.com/maulinadwi/kel5-api-ulasan-film#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
