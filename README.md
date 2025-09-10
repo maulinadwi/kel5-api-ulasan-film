@@ -67,5 +67,80 @@ dokumentasi :
 dokumentasi :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43c70f43-4adb-4c98-945a-661903c33bfe" />
 
-# LINK POSTMAN : 
+# FILE POSTMAN : [Koleksi_pengujian.postman_collection.json](https://github.com/user-attachments/files/22255926/Koleksi_pengujian.postman_collection.json)
+{
+	"info": {
+		"_postman_id": "faaa0d9f-a6ed-452a-a7f8-c807efbecd53",
+		"name": "Koleksi_pengujian",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47946413"
+	},
+	"item": [
+		{
+			"name": "all films",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "film spesifik",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "status API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "reviews",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "reviews id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "reviews post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "review delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "review put",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
+
 
