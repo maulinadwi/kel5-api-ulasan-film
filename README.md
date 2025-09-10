@@ -16,13 +16,16 @@ dan menambahkan ulasan.
 1. Clone repository ini: ‘git clone ...‘
 dokumentasi :
 ![WhatsApp Image 2025-09-10 at 19 37 45_044800e6](https://github.com/user-attachments/assets/0b974ef1-a02c-4c4f-9458-0d99b2ef6976)
-3. Masuk ke direktori: ‘cd NAMA-REPO‘
+
+2. Masuk ke direktori: ‘cd NAMA-REPO‘
 dokumentasi :
 <img width="700" height="63" alt="image" src="https://github.com/user-attachments/assets/05d6b343-2178-4cee-98c5-b8a2fbc55317" />
-5. Install dependensi: ‘npm install‘
+
+3. Install dependensi: ‘npm install‘
 dokumentasi :
 <img width="864" height="228" alt="image" src="https://github.com/user-attachments/assets/da4f9195-811e-4b5a-96cf-92aa124945fe" />
-7. Jalankan server: ‘node server.js‘
+
+4. Jalankan server: ‘node server.js‘
 dokumentasi :
 <img width="722" height="104" alt="image" src="https://github.com/user-attachments/assets/86bc3e7b-71fa-40aa-ad56-9248cabf96e4" />
 
@@ -60,9 +63,9 @@ dokumentasi :
 dokumentasi :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5636e18b-eb66-48be-8d8d-8e556d497472" />
 
-
 - ‘DELETE /reviews/:id‘: Menghapus ulasan.
 dokumentasi :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43c70f43-4adb-4c98-945a-661903c33bfe" />
 
+# LINK POSTMAN : 
 
